@@ -1,6 +1,6 @@
 ##Feature and activity name
 
-featureNames - data from features.txt
+featureNames - data from features.txt. 
 activityLabels - data from activity_labels.txt
 
 ## Training and test data
